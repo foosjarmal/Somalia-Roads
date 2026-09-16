@@ -1,0 +1,1494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.38233,
+            5.532423
+          ],
+          [
+            46.382284,
+            5.532621
+          ],
+          [
+            46.382359,
+            5.5324
+          ],
+          [
+            46.382315,
+            5.532458
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R001",
+        "road_type": "Primary",
+        "state": "Galmudug",
+        "stroke": "#E63946",
+        "stroke-width": 4,
+        "description": "Primary road (Connects minimum of two FMS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.38233,
+          5.532423
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R001",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.382315,
+          5.532458
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R001",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.382300535416746,
+          5.532572275638643
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R001",
+        "road_type": "Primary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R001",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R001</b><br>Type: Primary<br>State: Galmudug<br>Points: 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.302816,
+            3.752022
+          ],
+          [
+            47.180003,
+            3.850797
+          ],
+          [
+            46.912748,
+            4.160312
+          ],
+          [
+            46.617276,
+            4.684494
+          ],
+          [
+            46.384796,
+            5.537002
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R002",
+        "road_type": "Primary",
+        "state": "Galmudug",
+        "stroke": "#E63946",
+        "stroke-width": 4,
+        "description": "Primary road (Connects minimum of two FMS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.302816,
+          3.752022
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R002",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.384796,
+          5.537002
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R002",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.687156711272976,
+          4.560522148195114
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R002",
+        "road_type": "Primary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R002",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R002</b><br>Type: Primary<br>State: Galmudug<br>Points: 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.178458,
+            3.626471
+          ],
+          [
+            46.384742,
+            4.452482
+          ],
+          [
+            46.617931,
+            4.686481
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R003",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.178458,
+          3.626471
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R003",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.617931,
+          4.686481
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R003",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.66715433664254,
+          4.158578769370358
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R003",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R003",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R003</b><br>Type: Secondary<br>State: Galmudug<br>Points: 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.617321,
+            4.683931
+          ],
+          [
+            46.087966,
+            4.390143
+          ],
+          [
+            46.087908,
+            4.390229
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R004",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.617321,
+          4.683931
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R004",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.087908,
+          4.390229
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R004",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.35259815081162,
+          4.537011831545268
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R004",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R004",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R004</b><br>Type: Secondary<br>State: Galmudug<br>Points: 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.869997,
+            3.579084
+          ],
+          [
+            47.179913,
+            3.850827
+          ],
+          [
+            47.856793,
+            4.654444
+          ],
+          [
+            48.526036,
+            5.349586
+          ],
+          [
+            49.201414,
+            6.729701
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R005",
+        "road_type": "Primary",
+        "state": "Galmudug",
+        "stroke": "#E63946",
+        "stroke-width": 4,
+        "description": "Primary road (Connects minimum of two FMS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869997,
+          3.579084
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R005",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.201414,
+          6.729701
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R005",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.21694742379845,
+          5.028536021086665
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R005",
+        "road_type": "Primary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R005",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R005</b><br>Type: Primary<br>State: Galmudug<br>Points: 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.019328,
+            7.032812
+          ],
+          [
+            47.429324,
+            6.768465
+          ],
+          [
+            48.121311,
+            5.427413
+          ],
+          [
+            48.527536,
+            5.349385
+          ],
+          [
+            48.532755,
+            5.348684
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R006",
+        "road_type": "Primary",
+        "state": "Galmudug",
+        "stroke": "#E63946",
+        "stroke-width": 4,
+        "description": "Primary road (Connects minimum of two FMS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.019328,
+          7.032812
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R006",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.532755,
+          5.348684
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R006",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7595177586226,
+          6.128558469402812
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R006",
+        "road_type": "Primary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R006",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R006</b><br>Type: Primary<br>State: Galmudug<br>Points: 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.765459,
+            5.767776
+          ],
+          [
+            45.877773,
+            5.307626
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R007",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.765459,
+          5.767776
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R007",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.877773,
+          5.307626
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R007",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.821616,
+          5.537701
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R007",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R007",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R007</b><br>Type: Secondary<br>State: Galmudug<br>Points: 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.145843,
+            4.53106
+          ],
+          [
+            46.811292,
+            5.645691
+          ],
+          [
+            46.222829,
+            6.31029
+          ],
+          [
+            46.156305,
+            6.31029
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R008",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.145843,
+          4.53106
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R008",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.156305,
+          6.31029
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R008",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.84141204755268,
+          5.545339368339389
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R008",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R008",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R008</b><br>Type: Secondary<br>State: Galmudug<br>Points: 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.347966,
+            2.041467
+          ],
+          [
+            45.347953,
+            2.041471
+          ],
+          [
+            45.347953,
+            2.041471
+          ],
+          [
+            45.347914,
+            2.041242
+          ],
+          [
+            45.347914,
+            2.041242
+          ],
+          [
+            45.347914,
+            2.041242
+          ],
+          [
+            45.348003,
+            2.041686
+          ],
+          [
+            45.348003,
+            2.041686
+          ],
+          [
+            45.348003,
+            2.041686
+          ],
+          [
+            45.348003,
+            2.041686
+          ],
+          [
+            45.348003,
+            2.041686
+          ],
+          [
+            45.348026,
+            2.041347
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ],
+          [
+            45.348149,
+            2.041402
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R009",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.347966,
+          2.041467
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R009",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.348149,
+          2.041402
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R009",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.34798096632532,
+          2.0415760791959814
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R009",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R009",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R009</b><br>Type: Secondary<br>State: Galmudug<br>Points: 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.012131,
+            4.55997
+          ],
+          [
+            47.856352,
+            4.655313
+          ],
+          [
+            47.724179,
+            5.743088
+          ],
+          [
+            47.730442,
+            6.0803
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R010",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.012131,
+          4.55997
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R010",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.730442,
+          6.0803
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R010",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.78093971909703,
+          5.275951056632076
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R010",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R010",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R010</b><br>Type: Secondary<br>State: Galmudug<br>Points: 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.505245,
+            3.815361
+          ],
+          [
+            46.618001,
+            4.025538
+          ],
+          [
+            46.913521,
+            4.160397
+          ],
+          [
+            47.146633,
+            4.531394
+          ],
+          [
+            47.450284,
+            4.510147
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R011",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.505245,
+          3.815361
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R011",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.450284,
+          4.510147
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R011",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.96119069918954,
+          4.236263173299618
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R011",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R011",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R011</b><br>Type: Secondary<br>State: Galmudug<br>Points: 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.953526,
+            5.294305
+          ],
+          [
+            47.225612,
+            5.789367
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R012",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.953526,
+          5.294305
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R012",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.225612,
+          5.789367
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R012",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.089569,
+          5.541836
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R012",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R012",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R012</b><br>Type: Secondary<br>State: Galmudug<br>Points: 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.913332,
+            3.714751
+          ],
+          [
+            46.885457,
+            3.769955
+          ],
+          [
+            46.989184,
+            3.851753
+          ],
+          [
+            47.112563,
+            4.006863
+          ],
+          [
+            47.114571,
+            4.089162
+          ],
+          [
+            47.450282,
+            4.510371
+          ],
+          [
+            47.468331,
+            4.513439
+          ],
+          [
+            47.56136,
+            4.568355
+          ],
+          [
+            47.758032,
+            4.645723
+          ],
+          [
+            47.787169,
+            4.681936
+          ],
+          [
+            47.81329,
+            4.695438
+          ],
+          [
+            47.858587,
+            4.711519
+          ],
+          [
+            47.856457,
+            4.655466
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R013",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.913332,
+          3.714751
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R013",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.856457,
+          4.655466
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R013",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.295908561249924,
+          4.316682137369697
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R013",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R013",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R013</b><br>Type: Secondary<br>State: Galmudug<br>Points: 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.403704,
+            4.578023
+          ],
+          [
+            47.145854,
+            4.531109
+          ],
+          [
+            46.881692,
+            4.417019
+          ],
+          [
+            46.617437,
+            4.323263
+          ],
+          [
+            46.483392,
+            4.234596
+          ],
+          [
+            46.471676,
+            4.191593
+          ],
+          [
+            46.456497,
+            4.185243
+          ],
+          [
+            46.431226,
+            4.229945
+          ],
+          [
+            46.326225,
+            4.226523
+          ],
+          [
+            46.324867,
+            4.256525
+          ],
+          [
+            46.207125,
+            4.18574
+          ],
+          [
+            46.134578,
+            4.061649
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R014",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.403704,
+          4.578023
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R014",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.134578,
+          4.061649
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R014",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68384120306116,
+          4.346822790589398
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R014",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R014",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R014</b><br>Type: Secondary<br>State: Galmudug<br>Points: 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.179985,
+            3.850775
+          ],
+          [
+            47.044613,
+            3.920161
+          ],
+          [
+            47.044779,
+            3.921312
+          ],
+          [
+            46.929122,
+            4.033261
+          ],
+          [
+            46.618006,
+            4.025537
+          ]
+        ]
+      },
+      "properties": {
+        "road_number": "R015",
+        "road_type": "Secondary",
+        "state": "Galmudug",
+        "stroke": "#2A9D8F",
+        "stroke-width": 3,
+        "description": "Secondary road (Connects minimum of two major districts  within one FMS )"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.179985,
+          3.850775
+        ]
+      },
+      "properties": {
+        "type": "start",
+        "road_number": "R015",
+        "marker-color": "#2ECC40",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "Start of R015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.618006,
+          4.025537
+        ]
+      },
+      "properties": {
+        "type": "end",
+        "road_number": "R015",
+        "marker-color": "#FF4136",
+        "marker-symbol": "road",
+        "marker-size": "small",
+        "title": "End of R015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.930211474487,
+          4.032206454409629
+        ]
+      },
+      "properties": {
+        "type": "label",
+        "road_number": "R015",
+        "road_type": "Secondary",
+        "marker-symbol": "marker",
+        "marker-color": "#FFFFFF",
+        "marker-size": "small",
+        "label": "R015",
+        "label-color": "#000000",
+        "label-size": 12,
+        "font-weight": "bold",
+        "popup_content": "<b>R015</b><br>Type: Secondary<br>State: Galmudug<br>Points: 5"
+      }
+    }
+  ]
+}
